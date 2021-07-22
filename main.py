@@ -6,4 +6,5 @@
 
 
 name = input("enter your name: ")
-print("Hi " + name + "!")
+age = input("enter your age: ")
+print("Hi "+ name + "you are " + age)
