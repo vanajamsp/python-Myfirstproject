@@ -2,7 +2,7 @@
 
 #print("Hello World")
 
-
+//Adding a different comment to see the merge conflict
 
 
 name = input("enter your name: ")
