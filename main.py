@@ -12,3 +12,4 @@ def square(num):
 print(square(num1))
 
 
+#added comments.
