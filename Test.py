@@ -8,3 +8,5 @@ print("Welcome " + Name + ". You are " + Age)
 
 # test the no merge conflicts.
 #Agree with smooth merge.
+
+print("End of the program")
