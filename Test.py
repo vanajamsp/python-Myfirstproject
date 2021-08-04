@@ -6,4 +6,5 @@ print("Welcome " + Name + ". You are " + Age)
 #Developer 1 is commenting here.
 ## devoper2 - commented this.
 
-# test the no merge conflicts. 
+# test the no merge conflicts.
+#Agree with smooth merge.
