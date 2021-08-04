@@ -5,4 +5,4 @@ def qb():
   print("From function")
 
 
-print("End of the program")
+print("End of the program:")
