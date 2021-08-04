@@ -11,4 +11,4 @@ def square(num):
 
 print(square(num1))
 
-
+print("This is to check the square program.")
